@@ -1,1 +1,1 @@
-Readme in the 0x01-git directory
+Readme in the 0x01-git repo
